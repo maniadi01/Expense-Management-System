@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Expense-Management-System
+### The Enterprise Expense Management System allows companies to track, manage, and analyze employee expenses. It includes role-based access, automated approvals, real-time analytics, and PDF reporting. 
+>>>>>>> c075b62482c51628d2eaa30d7bfb77cb88461826
